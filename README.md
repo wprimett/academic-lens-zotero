@@ -9,7 +9,7 @@
 
 ## 2. Features
 
-- **Private & Configurable:** Communicates directly with your OpenAI-compatible endpoint (`http://77.42.92.200:18181/v1/chat/completions`), keeping your library data private.
+- **Private & Configurable:** Communicates directly with your OpenAI-compatible endpoint (`http://127.0.0.1:18181/v1/chat/completions`), keeping your library data private.
 - **Drag-and-Drop Ingestion:** Drag articles directly from your Zotero library table into the Academic Lens sidebar.
 - **One-Click Add:** Quickly add all currently highlighted items with the **+ Add Selected** button.
 - **Real-Time Streaming:** Streams responses token-by-token directly from local Qwen.
