@@ -1,0 +1,20 @@
+{
+  "name": "academic-lens-zotero",
+  "version": "1.1.5",
+  "description": "Academic Lens: Local AI Research Assistant for Zotero powered by Qwen",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "pack": "node build.mjs"
+  },
+  "keywords": [
+    "zotero",
+    "zotero-plugin",
+    "qwen",
+    "llm",
+    "rag",
+    "research-assistant"
+  ],
+  "author": "Academic Lens Team",
+  "license": "MIT"
+}
